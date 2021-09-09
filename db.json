@@ -6,7 +6,7 @@
         "images":  [
             "img/prod1.jpg",
             "img/prod1_1.jpg",
-            "img/prod1_2.jpg",
+            "img/prod1_2.jpg"
         ],
         "available": 14
     },
@@ -17,7 +17,7 @@
         "images":   [
             "img/prod2.jpg",
             "img/prod2_1.jpg",
-            "img/prod2_2.jpg",
+            "img/prod2_2.jpg"
         ],
         "available": 17
     },
@@ -28,7 +28,7 @@
         "images":   [
             "img/prod3.jpg",
             "img/prod3_1.jpg",
-            "img/prod3_2.jpg",
+            "img/prod3_2.jpg"
         ],
         "available": 25
     }
