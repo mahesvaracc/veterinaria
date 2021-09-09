@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Equilibrio gatos",
+        "description": "Ración para gatos adultos de interior. Alimento balanceado.",
+        "cost": 1300,
+        "images":  [
+            "img/prod1.jpg",
+            "img/prod1_1.jpg",
+            "img/prod1_2.jpg",
+        ],
+        "available": 14
+    },
+    {
+        "name": "Pedigree perros",
+        "description": "Ración para perros cachorros. Alimento balanceado.",
+        "cost": 1800,
+        "images":   [
+            "img/prod2.jpg",
+            "img/prod2_1.jpg",
+            "img/prod2_2.jpg",
+        ],
+        "available": 17
+    },
+    {
+        "name": "Caty gatos" ,
+        "description": "Ración para gatitos. Alimento balanceado.",
+        "cost": 500,
+        "images":   [
+            "img/prod3.jpg",
+            "img/prod3_1.jpg",
+            "img/prod3_2.jpg",
+        ],
+        "available": 25
+    }
+]
